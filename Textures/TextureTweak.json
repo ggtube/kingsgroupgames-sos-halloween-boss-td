@@ -1,0 +1,93 @@
+{"frames": {
+
+"t_dabi_r.png":
+{
+	"frame": {"x":398,"y":6,"w":95,"h":203},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":95,"h":203},
+	"sourceSize": {"w":95,"h":203},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"t_qugan.png":
+{
+	"frame": {"x":6,"y":284,"w":334,"h":723},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":334,"h":723},
+	"sourceSize": {"w":334,"h":723},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"t_tou.png":
+{
+	"frame": {"x":347,"y":488,"w":157,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":157,"h":190},
+	"sourceSize": {"w":157,"h":190},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"t_tui_l.png":
+{
+	"frame": {"x":6,"y":6,"w":141,"h":385},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":141,"h":385},
+	"sourceSize": {"w":141,"h":385},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"t_tui_r.png":
+{
+	"frame": {"x":6,"y":154,"w":123,"h":369},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":123,"h":369},
+	"sourceSize": {"w":136,"h":369},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"t_xiaobi_l.png":
+{
+	"frame": {"x":347,"y":685,"w":82,"h":283},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":82,"h":283},
+	"sourceSize": {"w":82,"h":283},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"t_xiaobi_r.png":
+{
+	"frame": {"x":382,"y":216,"w":86,"h":265},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":265},
+	"sourceSize": {"w":86,"h":265},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"t_yanpi_l.png":
+{
+	"frame": {"x":475,"y":216,"w":42,"h":20},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":20},
+	"sourceSize": {"w":43,"h":20},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"t_yanpi_r.png":
+{
+	"frame": {"x":475,"y":265,"w":32,"h":19},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":19},
+	"sourceSize": {"w":32,"h":19},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "TextureTweak.png",
+	"format": "RGBA8888",
+	"size": {"w":510,"h":1013},
+	"scale": "0.97",
+	"smartupdate": "$TexturePacker:SmartUpdate:404c755c2d795ccdcf46efde17c3806c:f4c369ef512b836bbc302ed941f94aae:dfc531436afb444df1df11a171f32cdf$"
+}
+}
